@@ -65,5 +65,3 @@ npm run build
 ## 🤝 Contributing
 We welcome contributions! Feel free to open issues and pull requests.
 
-## 📧 Contact
-For any inquiries, reach out at [harshvar8an@gmail.com](mailto:harshvar8an@gmail.com).
